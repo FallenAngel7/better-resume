@@ -1,0 +1,6 @@
+@BetterResume.Api_HostAddress = http://localhost:5122
+
+GET {{BetterResume.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
